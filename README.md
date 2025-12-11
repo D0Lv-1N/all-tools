@@ -1,8 +1,8 @@
-# INSTALL
+# INSTALL ALL-TOOLS
 
 ~~~
-git clone https://github.com/majelissholawatnuralathos-oss/tools.git
+git clone https://github.com/D0Lv-1N/all-tools
 cd tools
-chmod +x instaler.sh
-./instaler.sh
+chmod +x run.sh
+./run.sh
 
